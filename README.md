@@ -1,5 +1,5 @@
 # DataScientistTest-MileApp
-This is a project that I've done in order to fulfil the requirement process in MileApp. This project tells us about a dataset of delivery task for 10 days, from this data I'd like to get some insights which consist of Task Duration Analysis, Task Status Analysis, Cash on Delivery Analysis, Geolocation Analysis, Task Assignment Analysis, Product Analysis, and a machine learning model to predict how long the task duration will be.
+This is a project that I've done in order to fulfill the requirement process in MileApp. This project tells us about a dataset of delivery task for 10 days, from this data I'd like to get some insights which consist of Task Duration Analysis, Task Status Analysis, Cash on Delivery Analysis, Geolocation Analysis, Task Assignment Analysis, Product Analysis, and a machine learning model to predict how long the task duration will be.
 
 ## Context
 This dataset is about a sample of task delivery in 10 days. This dataset consists of 18 columns that contain various features from multiple dimensions: from location origin and destination, time started and completed, task status, the workers who did the delivery, and the product weight.
